@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using OnlineShop.Models.Db;
 
 namespace OnlineShop
@@ -12,8 +13,16 @@ namespace OnlineShop
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<OnlineShopContext>();
 
-            var app = builder.Build();
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options =>
+                {
+                    options.LoginPath = "/Account/Login";
+                    options.LogoutPath = "/Account/logout";
+                });
 
+
+            var app = builder.Build();
+                
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
@@ -23,7 +32,9 @@ namespace OnlineShop
 
             app.UseRouting();
 
+            app.UseAuthentication(); 
             app.UseAuthorization();
+   
 
             app.MapControllerRoute(
                  name: "Admin",
