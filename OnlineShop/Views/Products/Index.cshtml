@@ -15,14 +15,12 @@
                     </ul>
                 </div>
                 <!--breadcrumbs area end-->
-
                 <!--shop toolbar start-->
                 <div class="shop_toolbar_wrapper d-flex justify-content-between align-items-center">
                     <div class="page_amount">
                         <p><span>@Model.Count</span> Products Found</p>
                     </div>
                     <div class=" sorting_by d-flex align-items-center">
-                        
                     </div>
                     <div class="toolbar_btn_wrapper d-flex align-items-center">
                         <div class="view_btn">
@@ -41,51 +39,27 @@
                     @foreach (var item in Model)
                     {
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6 ">
-                        <div class="single_product">
-                            <div class="product_thumb">
-                                <a href="product-details.html">
+                            <div class="single_product">
+                                <div class="product_thumb">
+                                    <a href="/products/ProductDetails/@item.Id">
                                         <img class="primary_img" src="/images/banners/@item.ImageName" alt="@item.ImageName">
-                                </a>
-                                @if (item.Discount != null && item.Price > 0)
-                                {
-                                    <div class="product_label">
+                                    </a>
+                                    @if (item.Discount != null && item.Price > 0)
+                                    {
+                                        <div class="product_label">
                                             @{
                                                 decimal? discount_percentage;
-                                                discount_percentage = (item.Discount.GetValueOrDefault(0) / item.Price.GetValueOrDefault(0)) * 100 ;
+                                                discount_percentage = (item.Discount.GetValueOrDefault(0) / item.Price.GetValueOrDefault(0)) * 100;
                                             }
-                                        <span>
-                                            -@discount_percentage.GetValueOrDefault(0).ToString("F0")%
-                                        </span>
-                                    </div>
-                                }
-                                </div>
-                            <div class="product_content grid_content text-center">
-                                <h4 class="product_name"><a href="product-details.html">@item.Title</a></h4>
-                                <div class="price_box">
-                                    @if (item.Discount != null)
-                                        {
-                                            <span class="current_price">
-                                                @{
-                                                    decimal? discounted_price;
-                                                    discounted_price = item.Price.GetValueOrDefault(0) - item.Discount.GetValueOrDefault(0);
-                                                }
-                                                $@discounted_price.GetValueOrDefault(0).ToString("F")
+                                            <span>
+                                                -@discount_percentage.GetValueOrDefault(0).ToString("F0")%
                                             </span>
-                                            <span class="old_price">@item.Price.GetValueOrDefault(0).ToString("F")</span>
-                                        }
-                                        else
-                                        {
-                                            <span class="current_price">@item.Price.GetValueOrDefault(0).ToString("F")</span>
-                                        }
-                                    </div>
-                                <div class="add_to_cart">
-                                    <a class="btn btn-primary" href="#" data-tippy="Add To Cart" data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                        </div>
+                                    }
                                 </div>
-                            </div>
-                            <div class="product_list_content">
-                                <h4 class="product_name"><a href="product-details.html">@item.Title</a></h4>
-                                <p><a href="#">shows</a></p>
-                                <div class="price_box">
+                                <div class="product_content grid_content text-center">
+                                    <h4 class="product_name"><a href="/products/ProductDetails/@item.Id">@item.Title</a></h4>
+                                    <div class="price_box">
                                         @if (item.Discount != null)
                                         {
                                             <span class="current_price">
@@ -101,25 +75,49 @@
                                         {
                                             <span class="current_price">@item.Price.GetValueOrDefault(0).ToString("F")</span>
                                         }
+                                    </div>
+                                    <div class="add_to_cart">
+                                        <a class="btn btn-primary" href="#" data-tippy="Add To Cart" data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                    </div>
                                 </div>
-                                <div class="product_desc">
-                                    <p>@item.Description</p>
-                                </div>
-                                <div class="add_to_cart">
-                                    <a class="btn btn-primary" href="#" data-tippy="Add To Cart" data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
+                                <div class="product_list_content">
+                                    <h4 class="product_name"><a href="product-details.html">@item.Title</a></h4>
+                                    <p><a href="#">shows</a></p>
+                                    <div class="price_box">
+                                        @if (item.Discount != null)
+                                        {
+                                            <span class="current_price">
+                                                @{
+                                                    decimal? discounted_price;
+                                                    discounted_price = item.Price.GetValueOrDefault(0) - item.Discount.GetValueOrDefault(0);
+                                                }
+                                                $@discounted_price.GetValueOrDefault(0).ToString("F")
+                                            </span>
+                                            <span class="old_price">@item.Price.GetValueOrDefault(0).ToString("F")</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="current_price">@item.Price.GetValueOrDefault(0).ToString("F")</span>
+                                        }
+                                    </div>
+                                    <div class="product_desc">
+                                        <p>@item.Description</p>
+                                    </div>
+                                    <div class="add_to_cart">
+                                        <a class="btn btn-primary" href="#" data-tippy="Add To Cart" data-tippy-inertia="true" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-placement="top">Add To Cart</a>
 
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                     }
-                    
 
 
-                <!--shop toolbar end-->
-                <!--shop wrapper end-->
+
+                    <!--shop toolbar end-->
+                    <!--shop wrapper end-->
+                </div>
             </div>
         </div>
     </div>
-</div>
-<!--shop  area end-->
+    <!--shop  area end-->
