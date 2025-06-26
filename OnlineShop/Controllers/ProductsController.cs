@@ -15,7 +15,7 @@ namespace OnlineShop.Controllers
 
         public IActionResult Index()
         {
-            List<Product> products = _context.Products.OrderByDescending(x => x.Id).ToList();
+            List<Product> products = _context.Products.OrderBy(x => x.Id).ToList();
             return View(products);
         }
 
