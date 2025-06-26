@@ -505,6 +505,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\13900k_1.jpg"
+    },
+    {
+      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\13900k_2.jpg"
+    },
+    {
+      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\13900kthumbnail.jpg"
+    },
+    {
       "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png",
       "PackagePath": "staticwebassets\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png"
     },
@@ -539,6 +551,14 @@
     {
       "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg"
+    },
+    {
+      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\7950X_1.jpg"
+    },
+    {
+      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\Thumbnail7950X.jpg"
     },
     {
       "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",

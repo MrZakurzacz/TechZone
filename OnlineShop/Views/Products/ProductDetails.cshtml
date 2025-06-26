@@ -79,7 +79,7 @@
 
                             <div class="product_review">
                                 <ul class="d-flex">
-                                    <li>4 reviews</li>
+                                    <li>@comments.Count reviews</li>
                                     <li>Write your review</li>
                                 </ul>
                             </div>
@@ -226,40 +226,44 @@
                                     </div>
                                 }
 
-                            </div>
-                            <div class="comment_title">
-                                <h2>Add a review </h2>
-                                <p>Your email address will not be published.  Required fields are marked </p>
-                            </div>
-                            <div class="product_ratting mb-10">
-                                <h3>Your rating</h3>
-                                <ul class="d-flex">
-                                    <li><a href="#"><i class="icon-star"></i></a></li>
-                                    <li><a href="#"><i class="icon-star"></i></a></li>
-                                    <li><a href="#"><i class="icon-star"></i></a></li>
-                                    <li><a href="#"><i class="icon-star"></i></a></li>
-                                    <li><a href="#"><i class="icon-star"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="product_review_form">
-                                <form action="#">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <label for="review_comment">Your review </label>
-                                            <textarea name="comment" id="review_comment"></textarea>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <label for="author">Name</label>
-                                            <input id="author" type="text">
+                                <div class="comment_title">
+                                    <h2>Add a review </h2>
+                                    <p>Your email address will not be published.  Required fields are marked </p>
+                                </div>
 
+                                <div class="product_review_form" method="post">
+                                    <form method="post" asp-action="SubmitComment" asp-controller="Products">
+                                        <input type="hidden" name="productId" value="@Model.Id" />
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <label for="review_comment">Your review </label>
+                                                <textarea name="comment" id="review_comment"></textarea>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6">
+                                                <label for="author">Name</label>
+                                                <input name="name" id="author" type="text">
+
+                                            </div>
+                                            <div class="col-lg-6 col-md-6">
+                                                <label for="email">Email </label>
+                                                <input name="email" id="email" type="text">
+                                            </div>
                                         </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <label for="email">Email </label>
-                                            <input id="email" type="text">
-                                        </div>
-                                    </div>
-                                    <button type="submit">Submit</button>
-                                </form>
+                                        @if (TempData["SuccessMessage"] != null)
+                                        {
+                                            <div class="alert alert-success" role="alert">
+                                                @TempData["SuccessMessage"]
+                                            </div>
+                                        }
+                                        @if (TempData["ErrorMessage"] != null)
+                                        {
+                                            <div class="alert alert-danger" role="alert">
+                                                @TempData["ErrorMessage"]
+                                            </div>
+                                        }
+                                        <button type="submit">Submit</button>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -286,8 +290,6 @@
 
             </div>
         </div>
-    </div>
-</div>
     </div>
 </div>
 <!--product info end-->

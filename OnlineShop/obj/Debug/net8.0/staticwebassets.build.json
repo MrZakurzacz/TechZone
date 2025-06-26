@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lJDEC7vAOzmS5ZLk0EwqRyGgc0LY/hmIqg1vtj1qeE0=",
+  "Hash": "m+zVzS7vlFuYsVfaiipbDBoNhYeyZsCmrFCMwnOBrY0=",
   "Source": "OnlineShop",
   "BasePath": "_content/OnlineShop",
   "Mode": "Default",
@@ -2684,6 +2684,69 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
+      "SourceId": "OnlineShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\",
+      "BasePath": "_content/OnlineShop",
+      "RelativePath": "images/banners/13900k_1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2af03ftke",
+      "Integrity": "xfwFBNlA5NhPActzz5AadW8I/zIIYdKLutyFLSwGE3I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banners\\13900k_1.jpg"
+    },
+    {
+      "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
+      "SourceId": "OnlineShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\",
+      "BasePath": "_content/OnlineShop",
+      "RelativePath": "images/banners/13900k_2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7g15v9kg18",
+      "Integrity": "aeb/1rLemDfpGPYW+7/7BJtS4EiElh+vSgPH1z1R1rA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banners\\13900k_2.jpg"
+    },
+    {
+      "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
+      "SourceId": "OnlineShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\",
+      "BasePath": "_content/OnlineShop",
+      "RelativePath": "images/banners/13900kthumbnail#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otca3l00qk",
+      "Integrity": "bLb9gzEtgb5Nqoimv3PcnHi9gGM9MA3AdW4Dr7Q3XNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banners\\13900kthumbnail.jpg"
+    },
+    {
       "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png",
       "SourceId": "OnlineShop",
       "SourceType": "Discovered",
@@ -2873,6 +2936,27 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg"
     },
     {
+      "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
+      "SourceId": "OnlineShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\",
+      "BasePath": "_content/OnlineShop",
+      "RelativePath": "images/banners/7950X_1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hl0voof70t",
+      "Integrity": "xTyGF0E4bVModx5FZZDitIpRUDuA/LJGE70iXMikngw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banners\\7950X_1.jpg"
+    },
+    {
       "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",
       "SourceId": "OnlineShop",
       "SourceType": "Discovered",
@@ -2934,6 +3018,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\banners\\c25fbef5-0b3d-42ab-aee9-ce11cce6e202.jpg"
+    },
+    {
+      "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
+      "SourceId": "OnlineShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\",
+      "BasePath": "_content/OnlineShop",
+      "RelativePath": "images/banners/Thumbnail7950X#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c80zuc223o",
+      "Integrity": "7BnXF4J6vloQ2G1/bTGBBieLbcL0UrnGLg2qBp79MDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banners\\Thumbnail7950X.jpg"
     },
     {
       "Identity": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\index.html",
@@ -14469,6 +14574,252 @@
       ]
     },
     {
+      "Route": "images/banners/13900k_1.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfwFBNlA5NhPActzz5AadW8I/zIIYdKLutyFLSwGE3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfwFBNlA5NhPActzz5AadW8I/zIIYdKLutyFLSwGE3I="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/13900k_1.t2af03ftke.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xfwFBNlA5NhPActzz5AadW8I/zIIYdKLutyFLSwGE3I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:55:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2af03ftke"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banners/13900k_1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xfwFBNlA5NhPActzz5AadW8I/zIIYdKLutyFLSwGE3I="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/13900k_2.7g15v9kg18.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeb/1rLemDfpGPYW+7/7BJtS4EiElh+vSgPH1z1R1rA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7g15v9kg18"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banners/13900k_2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aeb/1rLemDfpGPYW+7/7BJtS4EiElh+vSgPH1z1R1rA="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/13900k_2.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeb/1rLemDfpGPYW+7/7BJtS4EiElh+vSgPH1z1R1rA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aeb/1rLemDfpGPYW+7/7BJtS4EiElh+vSgPH1z1R1rA="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/13900kthumbnail.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLb9gzEtgb5Nqoimv3PcnHi9gGM9MA3AdW4Dr7Q3XNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bLb9gzEtgb5Nqoimv3PcnHi9gGM9MA3AdW4Dr7Q3XNQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/13900kthumbnail.otca3l00qk.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLb9gzEtgb5Nqoimv3PcnHi9gGM9MA3AdW4Dr7Q3XNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:55:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otca3l00qk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banners/13900kthumbnail.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bLb9gzEtgb5Nqoimv3PcnHi9gGM9MA3AdW4Dr7Q3XNQ="
+        }
+      ]
+    },
+    {
       "Route": "images/banners/3665908d-7935-4990-9cb3-c88a2dd7e580.k4fu4jfrv4.png",
       "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png",
       "Selectors": [],
@@ -15207,6 +15558,88 @@
       ]
     },
     {
+      "Route": "images/banners/7950X_1.hl0voof70t.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTyGF0E4bVModx5FZZDitIpRUDuA/LJGE70iXMikngw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hl0voof70t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banners/7950X_1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTyGF0E4bVModx5FZZDitIpRUDuA/LJGE70iXMikngw="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/7950X_1.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xTyGF0E4bVModx5FZZDitIpRUDuA/LJGE70iXMikngw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:58:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xTyGF0E4bVModx5FZZDitIpRUDuA/LJGE70iXMikngw="
+        }
+      ]
+    },
+    {
       "Route": "images/banners/a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",
       "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",
       "Selectors": [],
@@ -15449,6 +15882,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-bnydwRzw2DUT1TO6IfTb1j+eH9usvAF5onohYc86bsA="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/Thumbnail7950X.c80zuc223o.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BnXF4J6vloQ2G1/bTGBBieLbcL0UrnGLg2qBp79MDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c80zuc223o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banners/Thumbnail7950X.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BnXF4J6vloQ2G1/bTGBBieLbcL0UrnGLg2qBp79MDc="
+        }
+      ]
+    },
+    {
+      "Route": "images/banners/Thumbnail7950X.jpg",
+      "AssetFile": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BnXF4J6vloQ2G1/bTGBBieLbcL0UrnGLg2qBp79MDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 13:57:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BnXF4J6vloQ2G1/bTGBBieLbcL0UrnGLg2qBp79MDc="
         }
       ]
     },
