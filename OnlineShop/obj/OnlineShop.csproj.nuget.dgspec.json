@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cosnowego\\OnlineService\\OnlineShop\\OnlineShop.csproj": {}
+    "C:\\cipsko\\TechZone\\OnlineShop\\OnlineShop.csproj": {}
   },
   "projects": {
-    "C:\\cosnowego\\OnlineService\\OnlineShop\\OnlineShop.csproj": {
+    "C:\\cipsko\\TechZone\\OnlineShop\\OnlineShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cosnowego\\OnlineService\\OnlineShop\\OnlineShop.csproj",
+        "projectUniqueName": "C:\\cipsko\\TechZone\\OnlineShop\\OnlineShop.csproj",
         "projectName": "OnlineShop",
-        "projectPath": "C:\\cosnowego\\OnlineService\\OnlineShop\\OnlineShop.csproj",
+        "projectPath": "C:\\cipsko\\TechZone\\OnlineShop\\OnlineShop.csproj",
         "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-        "outputPath": "C:\\cosnowego\\OnlineService\\OnlineShop\\obj\\",
+        "outputPath": "C:\\cipsko\\TechZone\\OnlineShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,6 +67,10 @@
             "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "PayPal": {
+              "target": "Package",
+              "version": "[1.9.1, )"
             }
           },
           "imports": [

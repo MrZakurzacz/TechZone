@@ -13,6 +13,9 @@ namespace OnlineShop
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<OnlineShopContext>();
 
+            builder.Services.AddSession();
+            builder.Services.AddHttpContextAccessor();
+
             builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(options =>
                 {
@@ -35,6 +38,7 @@ namespace OnlineShop
             app.UseAuthentication(); 
             app.UseAuthorization();
    
+            app.UseSession();
 
             app.MapControllerRoute(
                  name: "Admin",

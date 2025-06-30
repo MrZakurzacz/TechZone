@@ -1,57 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cosnowego\\OnlineService\\",
+  "WorkspaceRootPath": "C:\\cipsko\\TechZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\models\\db\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\models\\db\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\db\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\models\\db\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\models\\paypalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\paypalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\models\\db\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\db\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\products\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\products\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\products\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\models\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\account\\recoverypassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\account\\recoverypassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\account\\recoverypassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cosnowego\\onlineservice\\onlineshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|c:\\cipsko\\techzone\\onlineshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDF297D7-EFE1-47A6-B21F-561DBEB3A497}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -62,164 +74,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAKYBAAAAAAAAAAAQwM8BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T13:55:21.681Z"
+              "DocumentIndex": 1,
+              "Title": "PaypalConfiguration.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\PaypalConfiguration.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\PaypalConfiguration.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\PaypalConfiguration.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\PaypalConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:07:08.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T20:46:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJkBAAAAAAAAAIBJwJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T13:55:21.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "OnlineShop\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\AccountController.cs",
               "RelativeToolTip": "OnlineShop\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAuwDEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:37:33.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIA2wDQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T19:19:01.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAnwCQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T19:57:15.542Z"
+              "WhenOpened": "2025-06-21T17:37:33.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\Db\\Comment.cs",
-              "RelativeDocumentMoniker": "OnlineShop\\Models\\Db\\Comment.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\Db\\Comment.cs",
-              "RelativeToolTip": "OnlineShop\\Models\\Db\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineShop\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwDQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:17:25.754Z"
+              "WhenOpened": "2025-06-25T19:19:01.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T19:57:15.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\Db\\Comment.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\Db\\Comment.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\Db\\Comment.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\Db\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:17:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "OnlineShop\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "OnlineShop\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBEAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T16:21:29.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Products\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\Products\\ProductDetails.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Products\\ProductDetails.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\Products\\ProductDetails.cshtml",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAuwCUBAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T17:36:11.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "OnlineShopContext.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\Db\\OnlineShopContext.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\Db\\OnlineShopContext.cs",
               "RelativeDocumentMoniker": "OnlineShop\\Models\\Db\\OnlineShopContext.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\Db\\OnlineShopContext.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\Db\\OnlineShopContext.cs",
               "RelativeToolTip": "OnlineShop\\Models\\Db\\OnlineShopContext.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:17:40.409Z"
+              "WhenOpened": "2025-06-26T12:17:40.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T17:42:39.848Z"
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAiwCQBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:06:05.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Products\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\Products\\ProductDetails.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Products\\ProductDetails.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\Products\\ProductDetails.cshtml",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAuwCUBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T16:58:27.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "OnlineShop\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "OnlineShop\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T16:58:34.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "RelativeToolTip": "OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T16:56:02.986Z"
+              "WhenOpened": "2025-06-25T17:36:11.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:42:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T16:58:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "OnlineShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T16:58:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "OnlineShop\\Models\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:56:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RecoveryPassword.cshtml",
-              "DocumentMoniker": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
+              "DocumentMoniker": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
               "RelativeDocumentMoniker": "OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
-              "ToolTip": "C:\\cosnowego\\OnlineService\\OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
+              "ToolTip": "C:\\cipsko\\TechZone\\OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
               "RelativeToolTip": "OnlineShop\\Views\\Account\\RecoveryPassword.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T15:29:50.615Z"
+              "WhenOpened": "2025-06-23T15:29:50.615Z",
+              "EditorCaption": ""
             }
           ]
         }

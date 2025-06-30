@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cosnowego\\OnlineService\\test_mvc\\test_mvc.csproj": {}
+    "C:\\cipsko\\TechZone\\test_mvc\\test_mvc.csproj": {}
   },
   "projects": {
-    "C:\\cosnowego\\OnlineService\\test_mvc\\test_mvc.csproj": {
+    "C:\\cipsko\\TechZone\\test_mvc\\test_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cosnowego\\OnlineService\\test_mvc\\test_mvc.csproj",
+        "projectUniqueName": "C:\\cipsko\\TechZone\\test_mvc\\test_mvc.csproj",
         "projectName": "test_mvc",
-        "projectPath": "C:\\cosnowego\\OnlineService\\test_mvc\\test_mvc.csproj",
+        "projectPath": "C:\\cipsko\\TechZone\\test_mvc\\test_mvc.csproj",
         "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-        "outputPath": "C:\\cosnowego\\OnlineService\\test_mvc\\obj\\",
+        "outputPath": "C:\\cipsko\\TechZone\\test_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config"

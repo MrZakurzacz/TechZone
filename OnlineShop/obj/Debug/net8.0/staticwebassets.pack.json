@@ -1,819 +1,819 @@
 {
   "Files": [
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineShop.bundle.scp.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineShop.bundle.scp.css",
       "PackagePath": "staticwebassets\\OnlineShop.3sst9qquo2.bundle.scp.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\animate.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\font.awesome.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\font.awesome.css",
       "PackagePath": "staticwebassets\\assets\\css\\font.awesome.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\ionicons.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\ionicons.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\nice-select.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\simple-line-icons.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\simple-line-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\simple-line-icons.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\slick.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\slick.css",
       "PackagePath": "staticwebassets\\assets\\css\\slick.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\style",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\style",
       "PackagePath": "staticwebassets\\assets\\css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\style.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\style.css.map",
       "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\style.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\style.map",
       "PackagePath": "staticwebassets\\assets\\css\\style.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.eot"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.svg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.ttf"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff2",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff2"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.eot",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.eot"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.svg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.svg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.ttf",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.ttf"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.woff",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.woff"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\bg1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\bg2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg3.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\bg3.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg4.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\bg\\bg4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\bg4.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\bg\\shop_bg.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\bg\\shop_bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg\\shop_bg.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog3.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog4.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog4.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog5.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog5.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog6.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog6.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog7.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog7.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog8.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog8.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog9.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog9.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\blogbig.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\blogbig.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blogbig.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\comment2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\comment2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\comment2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment1.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment1.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\post-comment1.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment2.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment2.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\post-comment2.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\related1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\related1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\related1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\blog\\related2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\blog\\related2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\related2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\favicon.ico",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\icon\\owl.video.play.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\icon\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\img\\icon\\owl.video.play.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon metro-list.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon metro-list.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\Icon metro-list.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon open-grid-three-up.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon open-grid-three-up.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\Icon open-grid-three-up.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\logo\\logo.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram1.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram1.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram1.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram2.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram2.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram2.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram3.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram3.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram3.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram4.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram4.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram4.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram5.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram5.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram5.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram6.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram6.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram6.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram7.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram7.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram7.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram8.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram8.png",
       "PackagePath": "staticwebassets\\assets\\img\\others\\instagram8.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\paypal.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\paypal.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\paypal.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\big-product\\product1.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\big-product\\product1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\big-product\\product1.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product2.jpg.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product2.jpg.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product2.jpg.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product3.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product3.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product4.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product4.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product5.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product5.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product6.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product6.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product7.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product7.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\product8.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\product8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product\\product8.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product1.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product1.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\small-product\\product1.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product2.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product2.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\small-product\\product2.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product3.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product3.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\small-product\\product3.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product4.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\product\\small-product\\product4.png",
       "PackagePath": "staticwebassets\\assets\\img\\product\\small-product\\product4.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\10.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\10.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\4.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\5.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\7.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\8.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\8.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\img\\slider\\slider1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\img\\slider\\slider1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\slider\\slider1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\images-loaded.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\images-loaded.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\images-loaded.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\jquery.instagramFeed.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\jquery.instagramFeed.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.instagramFeed.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\jquery.nice-select.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\jquery.nice-select.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\jquery.scrollup.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\jquery.scrollup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollup.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\mailchimp-ajax.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\mailchimp-ajax.js",
       "PackagePath": "staticwebassets\\assets\\js\\mailchimp-ajax.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\slick.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\tippy-bundle.umd.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\tippy-bundle.umd.js",
       "PackagePath": "staticwebassets\\assets\\js\\tippy-bundle.umd.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\vendor\\jquery-3.4.1.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\vendor\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.7.1.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\vendor\\popper.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\vendor\\popper.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\js\\wow.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\mail.php",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\mail.php",
       "PackagePath": "staticwebassets\\assets\\mail.php"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\_common.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\_common.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\_variabls.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\_variabls.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_variabls.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_banner.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_banner.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_banner.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog-details.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog-details.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_blog-details.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_blog.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_cart-page.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_cart-page.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_cart-page.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_checkout.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_checkout.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_checkout.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_footer.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_footer.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_header.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_header.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_other.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_other.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_other.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product-details.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product-details.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_product-details.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_product.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_quick-view.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_quick-view.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_quick-view.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_shop.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_shop.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_shop.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\section\\_slider.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\section\\_slider.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\section\\_slider.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\assets\\scss\\style.scss",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\blog-details.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\blog-details.html",
       "PackagePath": "staticwebassets\\blog-details.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\blog.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\blog.html",
       "PackagePath": "staticwebassets\\blog.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\cart.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\cart.html",
       "PackagePath": "staticwebassets\\cart.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\checkout.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\checkout.html",
       "PackagePath": "staticwebassets\\checkout.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\favicon.ico",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\13900k_1.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\13900k_1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\13900k_2.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\13900k_2.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\13900kthumbnail.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\13900kthumbnail.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png",
       "PackagePath": "staticwebassets\\images\\banners\\3665908d-7935-4990-9cb3-c88a2dd7e580.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\37abb83b-a034-4a61-a2e0-09e6fa81b536.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\37abb83b-a034-4a61-a2e0-09e6fa81b536.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\37abb83b-a034-4a61-a2e0-09e6fa81b536.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3907f6ec-217b-4125-a34b-7b0bc686b4d5.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\3907f6ec-217b-4125-a34b-7b0bc686b4d5.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\3907f6ec-217b-4125-a34b-7b0bc686b4d5.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\3eb3d0a2-d272-41f0-82b1-9ee6b9cdb876.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\3eb3d0a2-d272-41f0-82b1-9ee6b9cdb876.png",
       "PackagePath": "staticwebassets\\images\\banners\\3eb3d0a2-d272-41f0-82b1-9ee6b9cdb876.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\49abda2b-ed9f-4d4f-8280-16e28ca164a4.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\49abda2b-ed9f-4d4f-8280-16e28ca164a4.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\49abda2b-ed9f-4d4f-8280-16e28ca164a4.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\51c9a57b-3476-4ae7-bf8c-744c8b6c1e66.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\51c9a57b-3476-4ae7-bf8c-744c8b6c1e66.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\51c9a57b-3476-4ae7-bf8c-744c8b6c1e66.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\579c89a7-4168-4b1e-a571-e23816d61ef2.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\579c89a7-4168-4b1e-a571-e23816d61ef2.png",
       "PackagePath": "staticwebassets\\images\\banners\\579c89a7-4168-4b1e-a571-e23816d61ef2.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\6ffbff28-58ec-40e6-9305-54d54dc67124.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\6ffbff28-58ec-40e6-9305-54d54dc67124.png",
       "PackagePath": "staticwebassets\\images\\banners\\6ffbff28-58ec-40e6-9305-54d54dc67124.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\78263525-e3dd-4a63-ae13-3e849b24f876.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\7950X_1.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\7950X_1.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\Thumbnail7950X.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\Thumbnail7950X.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\a16a90d7-6d3c-4c2b-a182-c609e8080350.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\ba2bbd08-53c3-4449-a46d-207001b9d057.png",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\ba2bbd08-53c3-4449-a46d-207001b9d057.png",
       "PackagePath": "staticwebassets\\images\\banners\\ba2bbd08-53c3-4449-a46d-207001b9d057.png"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\images\\banners\\c25fbef5-0b3d-42ab-aee9-ce11cce6e202.jpg",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\images\\banners\\c25fbef5-0b3d-42ab-aee9-ce11cce6e202.jpg",
       "PackagePath": "staticwebassets\\images\\banners\\c25fbef5-0b3d-42ab-aee9-ce11cce6e202.jpg"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\index.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\link.txt",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\link.txt",
       "PackagePath": "staticwebassets\\link.txt"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\product-details.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\product-details.html",
       "PackagePath": "staticwebassets\\product-details.html"
     },
     {
-      "Id": "C:\\cosnowego\\OnlineService\\OnlineShop\\wwwroot\\shop.html",
+      "Id": "C:\\cipsko\\TechZone\\OnlineShop\\wwwroot\\shop.html",
       "PackagePath": "staticwebassets\\shop.html"
     },
     {
